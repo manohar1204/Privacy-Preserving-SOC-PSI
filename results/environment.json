@@ -1,12 +1,12 @@
 {
-  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
-  "platform": "Linux-6.18.57-x86_64-with-glibc2.41",
-  "processor": "",
+  "python": "3.14.2 (main, Oct 28 2026, 19:03:49) [GCC 13.3.0]",
+  "platform": "Linux-6.8.0-1070-azure-x86_64-with-glibc2.39",
+  "processor": "x86_64",
   "sizes": [
     100,
     1000,
     5000,
     10000
   ],
-  "repeats": 3
+  "repeats": 5
 }
